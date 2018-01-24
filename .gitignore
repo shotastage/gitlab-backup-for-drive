@@ -103,4 +103,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-/gdb/settings.yaml
+settings.yaml
